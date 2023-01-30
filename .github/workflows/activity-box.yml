@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: seho27060
-          GIST_ID: 2516f26b3b17c6d06d3d791cc5cad390
+          GIST_ID: 7242481c64c6ff2593f9a9052fdcf2c9
